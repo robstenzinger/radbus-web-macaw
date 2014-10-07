@@ -1,6 +1,6 @@
 # RADBus Macaw Project
 
-Web UI project to support the Macaw based development of the RADBus UI, keeps the IDE project file out of the official repository.
+Web UI project to support the Macaw based development of the [RADBus Web UI](https://github.com/RADBus/Web), keeps the IDE project file out of the official repository.
 
 ## License
 
